@@ -1,0 +1,8 @@
+{
+  "name": "CAD Viewer",
+  "description": "A sleek, futuristic 3D CAD viewer featuring perspective projection, measurements, slicing views, assembly explosions, and interactive stereoscopic VR reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
